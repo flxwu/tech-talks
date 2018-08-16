@@ -1,0 +1,10 @@
+# Bio
+
+Felix is a 17 y/o Software Engineer from Germany specialised on JavaScript and Python. Despite already getting many offers from different companies, Felix is still attending school, but in his free time, he is an active Open Source contributor and has not only contributed to many projects including ReactJS and Materialize CSS, but also made the 20k-stars, smashing-magazine featured project 30-seconds-of-code and 30-seconds-of-interviews. Furthermore, he also maintains the rising text-based browser browsh. Besides from actual coding, he also loves talking and reading about it, as well as advocating for Youth in Tech.
+
+So far, he has done React Native, Electron, and general JavaScript stuff at Runtastic, GEZE and TNG Technology Consulting and is currently working as a Software Consultant for the latter. When Felix's doing things with computers, you can find him playing basketball or frisbee, having fun with friends or at tech meetups. 
+
+# Why
+
+By the time I am writing this application, I have never talked at a conference before but only on local meetups. After reading a really inspiring blog post by Ali Splittel, I am now trying to do what I already dreamed of for very long, but never dared to do: Talk at a bigger conference where I can reach people, show them something new and make them leave with a "Wow, I didn't know that".
+Since Augmented Reality is a growing and very rapidly evolving topic that becomes more and more important for developers to know about, I want to give the attendees an insight in how AR works, what it exactly means and how to do a simple implementation. I am especially excited to showcase the latter, as the ShapeDetection API Draft was published only a few months ago and I am sure most of the developers who don't know it yet will want to try it out afterward!
