@@ -1,14 +1,14 @@
 # Beyond `git commit` - Advanced Git tricks that will save your day
 
-# Abstract
+## Abstract
 
-24 million. That’s the number of total users at Github - in **2017**. But also before 2017, it has already become impossible to find any bigger project that wasn’t using any VCS - and that’s most commonly `git`. Therefore, it is important to know all tweaks and tricks of using `git`, and in this talk, I am going to present some hidden commands that you have probably neither used nor heard of.
+Most of us are using git, but many of us aren't familiar with git commands. Join me in this session and see that the git commands don't have to be black magic and learn a few new tips and tricks. You will learn how to debug git, patch your commits and resolve merge conflicts in a better way.
 
-# Talk Description
+## Talk Description
 
 Git is inevitably the most often used software among software developers - and we all have been in the situation where something happened to our git tree that was not supposed to happen. Visual Git Clients can catch some of these exceptions, but clearly not all of them. And often enough, you just want to achieve something advanced that is just not possible with a GUI client.
 
-Ever had to resolve the exact same conflict repeatedly? Ever wanted to reset a single file to a certain branch? Or wanted to find out which commit broke your code after a merge? The solutions to these issues will be covered in this talk, alongside with advanced git commands for Debugging Git, Inspecting your Git Tree and Patching your Commits.
+Ever had to resolve the exact same merge conflict repeatedly? Ever wanted to reset a single file to a certain branch? Or wanted to find out which commit broke your code after a merge? The solutions to these issues will be covered in this talk, alongside with advanced git commands for Debugging Git, Inspecting your Git Tree and Patching your Commits.
 
 **Objectives**
 

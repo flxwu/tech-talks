@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Code Testing: Some love it, many hate it. In the end, the only purpose of testing is making your code succeed in all test cases. But ever wondered about the effectiveness of your tests? Well, this talk will explore the art of *testing whether your tests fail properly* using Mutation Testing, a Unit Testing method that injects Mutants into your code to make your tests fail - but in case they don’t, you should definitely rewrite them.
+Did you ever think about the effectiveness and quality of your tests? This talk will explore the art of testing whether your tests fail properly using Mutation Testing, a Unit Testing method that injects Mutants into your code to make your tests fail. In case your tests do fail for all mutants, you're fine - in case they don't fail, you should definitely rewrite them. 
 
 ## Talk Description
 
