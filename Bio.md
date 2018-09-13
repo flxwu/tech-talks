@@ -1,8 +1,8 @@
 # Bio
 
-Felix is a 17 y/o Software Engineer from Germany specialised on JavaScript and Python. Despite already getting many offers from different companies, Felix is still attending school, but in his free time, he is an active Open Source contributor and has not only contributed to many projects including ReactJS and Materialize CSS, but also made the 20k-stars, smashing-magazine featured project 30-seconds-of-code and 30-seconds-of-interviews. Furthermore, he also maintains the rising text-based browser browsh. Besides from actual coding, he also loves talking and reading about it, as well as advocating for Youth in Tech.
+Felix is a 17 y/o Software Engineer from Germany specialised on JavaScript and Python. Despite already getting many offers from different companies, Felix is still attending school, but in his free time, he is an active Open Source contributor and has not only contributed to many projects including ReactJS, Prettier and Materialize CSS, but also made the 20k-stars, smashing-magazine featured JavaScript snippet collection 30-seconds-of-code and a platform for tech interviewees called 30-seconds-of-interviews. Furthermore, he also maintains the rising text-based browser browsh and react-perf-devtool, one of the most popular React Performance tools out there. Besides from actual coding, he also loves talking and reading about it, as well as advocating for Youth in Tech.
 
-So far, he has done React Native, Electron, and general JavaScript stuff at Runtastic, GEZE and TNG Technology Consulting and is currently working as a Software Consultant for the latter. When Felix's doing things with computers, you can find him playing basketball or frisbee, having fun with friends or at tech meetups. 
+So far, he has done React Native, Electron, and general JavaScript stuff at Runtastic, GEZE and TNG Technology Consulting and is currently working as a Software Consultant for the latter. When Felix's doing things with computers, you can find him playing basketball or frisbee, having fun with friends or at tech meetups.
 
 # Why
 
