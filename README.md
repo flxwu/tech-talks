@@ -1,4 +1,4 @@
-# Felix Wu 🐼
+# Felix Wu 🐺
 
 ## 👨‍💻 Bio
 
