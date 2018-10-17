@@ -1,6 +1,6 @@
-# Felix Wu :panda:
+# Felix Wu 🐼
 
-## :coder: Bio
+## 👨‍💻 Bio
 
 Felix is a Software Engineer working as a Frontend Consultant for [TNG Technology Consulting](https://tngtech.com). In his free time, he is an active Open Source contributor and the co-creator of the JavaScript snippet collection [30secondsofcode.org](https://github.com/30-seconds/30-seconds-of-code) and a platform for tech interviewees called [30secondsofinterviews.org](https://github.com/30-seconds/30-seconds-of-interviews). He currently also maintains [React Performance Devtool](https://github.com/nitin42/react-perf-devtool).
 
