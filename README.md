@@ -16,3 +16,20 @@ When not coding, you can find him talking or reading about it, as well as advoca
 You can find my talks in the [proposals/](/proposals) folder.
 
 
+## 🗣️ Upcoming Talks
+
+| Date       | Conference | Location         | Talk                                                           |
+|------------|------------|------------------|----------------------------------------------------------------|
+| 11/11/2018 | DACHFest   | Munich, 🇩🇪       | Experiences of a 17 y/o in the Tech Scene                      |
+| 11/22/2018 | DevTalksJr | Bukarest, 🇷🇴     | Augmented Reality in Your Browser using Vanilla JavaScript     |
+| 03/26/2019 | DevConf    | Cape Town, 🇿🇦    | Testing your tests’ quality - Introduction to Mutation Testing |
+| 03/28/2019 | DevConf    | Johannesburg, 🇿🇦 | Testing your tests’ quality - Introduction to Mutation Testing |
+
+
+
+## 🗣️⏲️ Past Talks
+
+| Date       | Conference   | Location         | Talk                                                           |
+|------------|--------------|------------------|----------------------------------------------------------------|
+| 08/23/2018 | CSSFrankfurt | Frankfurt, 🇩🇪    | CSS-in-JS: The Future of Component-Based Styling?              |
+| 07/07/2018 | TNG Techday  | Munich, 🇩🇪       | How to get into Open Source                                    |
