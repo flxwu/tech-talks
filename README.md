@@ -29,7 +29,7 @@ You can find my talks in the [proposals/](/proposals) folder.
 
 ## 🗣️⏲️ Past Talks
 
-| Date       | Conference   | Location         | Talk                                                           |
-|------------|--------------|------------------|----------------------------------------------------------------|
-| 08/23/2018 | CSSFrankfurt | Frankfurt, 🇩🇪    | CSS-in-JS: The Future of Component-Based Styling?              |
-| 07/07/2018 | TNG Techday  | Munich, 🇩🇪       | How to get into Open Source                                    |
+| Date       | Conference   | Location       | Talk                                                           | Video/Slides |
+|------------|--------------|----------------|----------------------------------------------------------------| 
+| 08/23/2018 | CSSFrankfurt | Frankfurt, 🇩🇪  | CSS-in-JS: The Future of Component-Based Styling?              | [Video](https://www.youtube.com/watch?v=NcU4RL2rQeg)/[Slides](https://slides.com/flxwu/css-in-js)
+| 07/07/2018 | TNG Techday  | Munich, 🇩🇪     | How to get into Open Source                                    | [Video](https://vimeo.com/285446527)/[Slides](https://slides.com/flxwu/get-into-open-source)
