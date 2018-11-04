@@ -29,7 +29,33 @@ You can find my talks in the [proposals/](/proposals) folder.
 
 ## 🗣️⏲️ Past Talks
 
-| Date       | Conference   | Location      | Talk                                                 | Video/Slides |
-|------------|--------------|---------------|------------------------------------------------------| 
-| 08/23/2018 | CSSFrankfurt | Frankfurt, 🇩🇪 | CSS-in-JS: The Future of Component-Based Styling?    | [Video](https://www.youtube.com/watch?v=NcU4RL2rQeg)/[Slides](https://slides.com/flxwu/css-in-js)
-| 07/07/2018 | TNG Techday  | Munich, 🇩🇪    | How to get into Open Source                          | [Video](https://vimeo.com/285446527)/[Slides](https://slides.com/flxwu/get-into-open-source)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Date</th>
+    <th class="tg-0pky">Conference</th>
+    <th class="tg-0pky">Location</th>
+    <th class="tg-0pky">Talk</th>
+    <th class="tg-0lax">Video/Slides</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">08/2018</td>
+    <td class="tg-0pky">CSSFrankfurt</td>
+    <td class="tg-0pky">Frankfurt, 🇩🇪</td>
+    <td class="tg-0pky">CSS-in-JS: The Future of Component-Based Styling?</td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=NcU4RL2rQeg">Video</a>/<a href="https://slides.com/flxwu/css-in-js">Slides</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">07/2018</td>
+    <td class="tg-0pky">TNG Techday</td>
+    <td class="tg-0pky">Munich, 🇩🇪</td>
+    <td class="tg-0pky">How to get into Open Source</td>
+    <td class="tg-0lax"><a href="https://vimeo.com/285446527">Video</a>/<a href="https://slides.com/flxwu/get-into-open-source">Slides</a></td>
+  </tr>
+</table>
