@@ -2,9 +2,9 @@
 
 ## 👨‍💻 Bio
 
-Felix is a Software Consultant for TNG Technology Consulting, mainly concentrated on JavaScript and Python. He loves everything surrounding Computer Science, from tinkering with algorithms and data structures to building Augmented Reality apps in the browser.  In his free time, he is an active Open Source contributor and the co-creator of the JavaScript snippet collection [30secondsofcode.org](https://github.com/30-seconds/30-seconds-of-code) and a platform for tech interviewees called [30secondsofinterviews.org](https://github.com/30-seconds/30-seconds-of-interviews).
+Felix is a 17 y/o Software Consultant for TNG Technology Consulting, mainly concentrated on JavaScript and Python. He loves everything surrounding Computer Science, from tinkering with algorithms and data structures to building Augmented Reality apps in the browser.  In his free time, he is an active Open Source contributor and the co-creator of the JavaScript snippet collection [30secondsofcode.org](https://github.com/30-seconds/30-seconds-of-code) and a platform for tech interviewees called [30secondsofinterviews.org](https://github.com/30-seconds/30-seconds-of-interviews).
 
-When doing something related to computers, you can find him going on conferences or sometimes helping organize [CSSFrankfurt](https://cssfrankfurt.de) or [HacktoberfestFFM](https://hacktoberfestffm.de). He loves travelling, playing basketball and frisbee, as well as hanging out with friends. Like many young people, he also loves going on parties! Before joining TNG, he's been doing React Native magic at Runtastic.
+When doing something related to computers, you can find him going on conferences or sometimes helping organize [CSSFrankfurt](https://cssfrankfurt.de) or [HacktoberfestFFM](https://hacktoberfestffm.de). He loves traveling, playing basketball and frisbee, as well as hanging out with friends. Like many young people, he also loves going on parties! Before joining TNG, he's been doing React Native magic at Runtastic.
 Currently, his goal is to read a book every month.
 
 @flxwu - [Twitter](https://twitter.com/flxwu) / [Github](https://github.com/flxwu) / [CV](https://resume.io/r/aJyyo)
