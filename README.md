@@ -18,16 +18,12 @@ Currently, his goal is to read a book every month.
 * DIY Internet - Brief 101 on a website’s journey to your screen
 * Augmented Reality in Your Browser using Vanilla JavaScript
 * Figuring out `this` and why it's not `that`
-* CSS-in-JS: The Future of Component-based styling?
+* Building a Treasure Hunt game using Augmented Reality
 
 **Other Tech:**
 
 * Beyond `git commit` - Advanced Git Tricks that will save your day
 * Testing your tests’ quality - Introduction to Mutation Testing
-
-**Personal:**
-
-* Experiences of a 17-y/o in the Tech Scene
 
 You can find my talk proposals in the [proposals/](/proposals) folder.
 
