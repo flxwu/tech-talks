@@ -9,8 +9,7 @@ Whether at home, at work or with the family, there is no way to avoid saying 'th
 <br><br><br>
 
 ##### Combined Description
-The concept of 'this' can be thoroughly confusing for both new and seasoned JavaScript developers alike. While there is no doubt that we cannot avoid using ‘this’ in our natural language and daily life, we as Software Developers often never learn about the right usage of ‘this’. Similar to its usage in spoken languages, we use ‘this’ in JavaScript to refer to an object. But this object is dynamic, which leads to ‘this’ referring to different objects in different cases: It can refer to the some global object, it can be used inside methods on objects, in function contexts, or in ‘new’ declarations. If we only take on ‘this’ inside methods, we still have to differentiate between methods on an object, a nested object or in an arrow function.
-This talk aims to elucidate this in its entirety, so that you’ll never have to worry about that part of JavaScript again!
+The concept of 'this' can be thoroughly confusing for both new and seasoned JavaScript developers alike. While there is no doubt that we cannot avoid using ‘this’ in our natural language and daily life, we as Software Developers often never learn about the right usage of 'this', except that it refers to an object. But to understand this reference, we have to also figure out and differentiate various types of invocations like constructors, methods or functions, which causes 'this' to often be considered a mystery. This talk aims to elucidate this in its entirety, so that you’ll understand all the different use cases and their drawbacks, and never have to worry about that part of JavaScript again!
 
 
 #### Motivation
