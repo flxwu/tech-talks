@@ -9,7 +9,7 @@ Currently, his goal is to read a book every month.
 
 @flxwu - [Twitter](https://twitter.com/flxwu) / [Github](https://github.com/flxwu) / [CV](https://resume.io/r/aJyyo)
 
-[Profile Picture 📸](/profile.jpg)
+[Profile Picture 📸](/profile.png)
 
 
 ## 💬 Talk Topics
