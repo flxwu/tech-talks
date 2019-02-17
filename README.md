@@ -76,7 +76,7 @@ You can find my talk proposals in the [proposals/](/proposals) folder.
     <td class="tg-0pky"><a href="http://dachfest.com">DACHFest</a></td>
     <td class="tg-0pky">Munich, 🇩🇪</td>
     <td class="tg-0pky">Experiences of a 17 y/o in the Tech Scene</td>
-    <td class="tg-0lax">Video/<a href="https://speakerdeck.com/flxwu/o-in-the-tech-scene">Slides</a></td>
+    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=tg-NZn5GY10">Video</a>/<a href="https://speakerdeck.com/flxwu/o-in-the-tech-scene">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">08/2018</td>
