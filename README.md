@@ -32,12 +32,15 @@ Currently, his goal is to read a book every month.
 You can find my talk proposals in the [proposals/](/proposals) folder.
 
 
-## 🗣️ Upcoming Talks
+## 🗣️ Upcoming Talks / Engagements / Workshops
 
 | Date       | Conference | Location         | Talk                                                           |
 |------------|------------|------------------|----------------------------------------------------------------|
-| 03/26/2019 | DevConf    | Cape Town, 🇿🇦    | Testing your tests’ quality - Introduction to Mutation Testing |
-| 03/28/2019 | DevConf    | Johannesburg, 🇿🇦 | Testing your tests’ quality - Introduction to Mutation Testing |
+| 02/03/2019 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/169)    | Frankfurt, 🇩🇪 | Public Speaking Workshop |
+| 26-27/03/2019 | [DevConf](https://devconf.co.za)    | Cape Town, 🇿🇦    | Testing your tests’ quality - Introduction to Mutation Testing |
+| 28/03/2019 | [DevConf](https://devconf.co.za)    | Johannesburg, 🇿🇦 | Testing your tests’ quality - Introduction to Mutation Testing |
+| 03-04/04/2019 | [DevOps Days Copenhagen](https://www.devopsdays.org/events/2018-copenhagen/welcome/) | Copenhagen, 🇩🇰 | Experiences of a 17 y/o in the Tech Scene |
+| 06-07/06/2019 | [WeAreDevelopers World Congress](https://wearedevelopers.com/world-congress/)    | Berlin, 🇩🇪 | Testing your tests’ quality - Introduction to Mutation Testing |
 
 
 
@@ -50,6 +53,20 @@ You can find my talk proposals in the [proposals/](/proposals) folder.
     <th class="tg-0pky">Location</th>
     <th class="tg-0pky">Talk</th>
     <th class="tg-0lax">Video/Slides</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">22/01/2019</td>
+    <td class="tg-0pky"><a href="https://www.meetup.com/de-DE/React-Meetup-Frankfurt">React FFM</a></td>
+    <td class="tg-0pky">Frankfurt, 🇩🇪</td>
+    <td class="tg-0pky">React Hooks - Reacting To The Hype</td>
+    <td class="tg-0lax"><a href="https://speakerdeck.com/flxwu/react-hooks-reacting-to-the-hype">Slides</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">18/12/2018</td>
+    <td class="tg-0pky"><a href="https://hansenberg.de">Schloss Hansenberg</a></td>
+    <td class="tg-0pky">Geisenheim, 🇩🇪</td>
+    <td class="tg-0pky">Slidedeck Design (workshop)</td>
+    <td class="tg-0lax"><a href="https://speakerdeck.com/flxwu/slidedeck-design">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">11/2018</td>
