@@ -30,14 +30,7 @@ You can find my talk proposals in the [proposals/](/proposals) folder.
 
 ## 🗣️ Upcoming Talks / Engagements / Workshops
 
-| Date       | Conference | Location         | Talk                                                           |
-|------------|------------|------------------|----------------------------------------------------------------|
-| 02/03/2019 | [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/events/169)    | Frankfurt, 🇩🇪 | Public Speaking Workshop |
-| 26-27/03/2019 | [DevConf](https://devconf.co.za)    | Cape Town, 🇿🇦    | Testing your tests’ quality - Introduction to Mutation Testing |
-| 28/03/2019 | [DevConf](https://devconf.co.za)    | Johannesburg, 🇿🇦 | Testing your tests’ quality - Introduction to Mutation Testing |
-| 03-04/04/2019 | [DevOps Days Copenhagen](https://www.devopsdays.org/events/2018-copenhagen/welcome/) | Copenhagen, 🇩🇰 | Experiences of a 17 y/o in the Tech Scene |
-| 06-07/06/2019 | [WeAreDevelopers World Congress](https://wearedevelopers.com/world-congress/)    | Berlin, 🇩🇪 | Testing your tests’ quality - Introduction to Mutation Testing |
-
+For now, I haven't planned on any talks in the near future, since I'm enrolling in uni soon!
 
 
 ## 🗣️⏲️ Past Talks
@@ -49,6 +42,34 @@ You can find my talk proposals in the [proposals/](/proposals) folder.
     <th class="tg-0pky">Location</th>
     <th class="tg-0pky">Talk</th>
     <th class="tg-0lax">Video/Slides</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">06/06/2019</td>
+    <td class="tg-0pky"><a href="https://events.wearedevelopers.com/world-congress/">WeAreDevelopers World Congress</a></td>
+    <td class="tg-0pky">Berlin, 🇩🇪 <td>
+    <td class="tg-0pky">Testing your tests’ quality - Introduction to Mutation Testing</td>
+    <td class="tg-0lax"><a href="https://speakerdeck.com/flxwu/react-hooks-reacting-to-the-hype">Slides</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">09/07/2019</td>
+    <td class="tg-0pky"><a href="https://main-kinzig-nerds.de/">Main Kinzig Nerds</a></td>
+    <td class="tg-0pky">Hanau, 🇩🇪 <td>
+    <td class="tg-0pky">Testing your tests’ quality - Introduction to Mutation Testing</td>
+    <td class="tg-0lax"><a href="https://speakerdeck.com/flxwu/react-hooks-reacting-to-the-hype">Slides</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">28/03/2019</td>
+    <td class="tg-0pky"><a href="https://devconf.co.za">DevConf ZA</a></td>
+    <td class="tg-0pky">Johannesburg, 🇿🇦 <td>
+    <td class="tg-0pky">Testing your tests’ quality - Introduction to Mutation Testing</td>
+    <td class="tg-0lax"><a href="https://youtu.be/WTR8k6oPTyY">Video</a>/<a href="https://speakerdeck.com/flxwu/react-hooks-reacting-to-the-hype">Slides</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">26/03/2019</td>
+    <td class="tg-0pky"><a href="https://devconf.co.za">DevConf ZA</a></td>
+    <td class="tg-0pky">Cape Town, 🇿🇦 <td>
+    <td class="tg-0pky">Testing your tests’ quality - Introduction to Mutation Testing</td>
+    <td class="tg-0lax"><a href="https://speakerdeck.com/flxwu/making-your-tests-fail-introduction-to-mutation-testing">Slides</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">22/01/2019</td>
