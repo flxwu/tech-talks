@@ -2,10 +2,7 @@
 
 ## 👨‍💻 Bio
 
-Felix is a 18 y/o Software Consultant for TNG Technology Consulting, mainly concentrated on JavaScript and Python. He loves everything surrounding Computer Science, from tinkering with algorithms and data structures to building Augmented Reality apps in the browser.  In his free time, he is an active Open Source contributor and the co-creator of the JavaScript snippet collection [30secondsofcode.org](https://github.com/30-seconds/30-seconds-of-code) and a platform for tech interviewees called [30secondsofinterviews.org](https://github.com/30-seconds/30-seconds-of-interviews).
-
-When not doing something related to computers, you can find him going on conferences or sometimes helping organize [CSSFrankfurt](https://cssfrankfurt.de) or [HacktoberfestFFM](https://hacktoberfestffm.de). He loves traveling, playing basketball and frisbee, as well as hanging out with friends. Like many young people, he also loves going on parties! Before joining TNG, he's been doing React Native magic at Runtastic.
-Currently, his goal is to read a book every month.
+Felix is an 18 y/o Software Engineer working for the German Agency Sinnerschrader, a part of Accenture. He mainly works with JavaScript and loves tinkering with it, whether it be on websites, in machine learning, or to do augmented reality. In his free time, he co-founded the Open Source organization 30-seconds. There, he co-authored the interview platform [30secondsofinterviews](https://github.com/30-seconds/30-seconds-of-interviews) to help coders prepare for their interview, as well as the JavaScript utility library [30secondsofcode](https://github.com/30-seconds/30-seconds-of-code) to facilitate their workflow. When not doing something related to computers, you can find him going on conferences or playing basketball! 
 
 @flxwu - [Twitter](https://twitter.com/felix_codes) / [Github](https://github.com/flxwu) / [CV](https://resume.io/r/aJyyo)
 
