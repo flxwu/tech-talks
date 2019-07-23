@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Bio
 
-Felix is an 18 y/o Software Engineer working for the German Agency Sinnerschrader, a part of Accenture. He mainly works with JavaScript and loves tinkering with it, whether it be on websites, in machine learning, or to do augmented reality. In his free time, he co-founded the Open Source organization 30-seconds. There, he co-authored the interview platform [30secondsofinterviews](https://github.com/30-seconds/30-seconds-of-interviews) to help coders prepare for their interview, as well as the JavaScript utility library [30secondsofcode](https://github.com/30-seconds/30-seconds-of-code) to facilitate their workflow. When not doing something related to computers, you can find him going on conferences or playing basketball! 
+Felix is an 18 y/o Software Engineer working for the German Agency Sinnerschrader, a part of Accenture. He mainly works with JavaScript and loves tinkering with it, whether it be on websites, in machine learning, or to do augmented reality. In his free time, he co-founded the Open Source organization 30-seconds. There, he co-authored the interview platform [30secondsofinterviews](https://github.com/30-seconds/30-seconds-of-interviews) to help thousands of coders prepare for their interview, as well as the JavaScript utility library [30secondsofcode](https://github.com/30-seconds/30-seconds-of-code) to facilitate their workflow. When not doing something related to computers, you can find him going on conferences or playing basketball! 
 
 @flxwu - [Twitter](https://twitter.com/felix_codes) / [Github](https://github.com/flxwu) / [CV](https://resume.io/r/aJyyo)
 
