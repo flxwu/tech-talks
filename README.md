@@ -1,4 +1,6 @@
-# Felix Wu 🐺
+# Felix Wu 🐺 (This hasn't been updated for ~1.5 years. Work in progress!)
+
+
 
 ## 👨‍💻 Bio
 
@@ -24,10 +26,6 @@ Felix is an 19 y/o Software Engineer at Google. In his free time, he co-founded 
 
 You can find my talk proposals in the [proposals/](/proposals) folder.
 
-
-## 🗣️ Upcoming Talks / Engagements / Workshops
-
-For now, I haven't planned on any talks in the near future, since I'm enrolling in uni soon!
 
 
 ## 🗣️⏲️ Past Talks
