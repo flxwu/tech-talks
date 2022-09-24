@@ -1,14 +1,6 @@
-# Felix Wu 🐺 (This hasn't been updated for ~1.5 years. Work in progress!)
+# Felix Wu
 
-
-
-## 👨‍💻 Bio
-
-Felix is an 19 y/o Software Engineer at Google. In his free time, he co-founded the Open Source organization 30-seconds. There, he co-authored the interview platform [30secondsofinterviews](https://github.com/30-seconds/30-seconds-of-interviews) to help thousands of coders prepare for their interview, as well as the JavaScript utility library [30secondsofcode](https://github.com/30-seconds/30-seconds-of-code) to facilitate their workflow. When not doing something related to computers, you can find him going on conferences or playing basketball! 
-
-@flxwu - [Twitter](https://twitter.com/felix_codes) / [Github](https://github.com/flxwu)
-
-[Profile Picture 📸](/profile.png)
+NOTE: This hasn't been updated for ~1.5 years. Work in progress!
 
 
 ## 💬 Talk Topics
